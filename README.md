@@ -1,4 +1,4 @@
-# whatsapp-autowisher-tool
+# Whatsapp Autowisher
 Project created by Python Rockers under the internship of [The Intern Academy](https://theinternacademy.in/)
 
 ## Objective
